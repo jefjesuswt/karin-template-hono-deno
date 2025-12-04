@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@project-karin/core": "^0.5.2",
-    "@project-karin/platform-hono": "^0.3.6",
+    "@project-karin/platform-hono": "^0.5.2",
     "zod": "^4.1.13"
   },
   "devDependencies": {

@@ -1,5 +1,5 @@
-import { KarinFactory } from "@karin-js/core";
-import { HonoAdapter } from "@karin-js/platform-hono";
+import { KarinFactory } from "@project-karin/core";
+import { HonoAdapter } from "@project-karin/platform-hono";
 import { AppController } from "./app/app.controller";
 
 const app = await KarinFactory.create(new HonoAdapter(), {
